@@ -8,3 +8,11 @@ Human speech is not only characterized by sound quality but also by coherence, d
 In contrast, the linguistic content of speech transcripts offers an alternative and complementary perspective for deepfake detection. Transcribed speech generated from synthetic audio may exhibit subtle irregularities at the semantic, syntactic and stylistic levels, including semantic drift, unnatural word distributions, disrupted discourse flow and deviations in writing style. These linguistic inconsistencies are well-suited for analysis using NLP techniques and may persist even when acoustic cues are no longer reliable.
 Despite this potential, NLP-driven deepfake detection remains relatively underexplored, particularly with respect to interpretability. This project addresses these challenges by proposing an NLP-focused deepfake speech detection framework that analyzes transcribed speech using semantic, syntactic and stylometric features. The system is designed to identify linguistic inconsistencies
 indicative of synthetic speech while maintaining interpretability through the integration of Explainable AI (XAI) techniques such as feature attribution and instance-level explanations.
+
+
+
+
+# UI Snippets
+
+
+<img width="517" height="290" alt="image" src="https://github.com/user-attachments/assets/b904c56f-471c-4361-98a5-2ee33b0bcf1b" />
